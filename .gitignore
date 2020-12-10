@@ -1,0 +1,9 @@
+Ketamine_Outcomes/
+data/
+results/
+code/format_clinical_data.R
+code/jl-notebook.sh
+code/notebook.sh
+code/prediction_within_arm_simple.R
+code/prediction_within_arm_xgbtree.R
+Archived/
